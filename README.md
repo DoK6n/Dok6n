@@ -1,13 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=Kim%20Do%20Kyun&fontSize=42&fontAlignY=28&fontAlign=80&&animation=twinkling)
 
 <div style="display: flex; flex-wrap: wrap;">
-  <img
-    width="418px"
-    src="https://github-readme-stats.vercel.app/api?username=DoK6n&show_icons=true&theme=material-palenight"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoK6n&layout=compact&theme=material-palenight"
-  />
+  <a href="https://github.com/DoK6n">
+    <img
+      width="418px"
+      src="https://github-readme-stats.vercel.app/api?username=DoK6n&show_icons=true&theme=material-palenight"
+    />
+  </a>
+  <a href="https://github.com/DoK6n">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoK6n&layout=compact&theme=material-palenight"
+    />
+  </a>
 </div>
 
 
