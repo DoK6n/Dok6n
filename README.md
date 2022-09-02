@@ -50,12 +50,12 @@
 
 # Repo
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/DoK6n/podote-server">
+  <a href="https://github.com/DoK6n/podote">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=Dok6n&repo=podote&theme=material-palenight"
     />
   </a>
-  <a href="https://github.com/DoK6n/podote">
+  <a href="https://github.com/DoK6n/podote-server">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=Dok6n&repo=podote-server&theme=material-palenight"
     />
