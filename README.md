@@ -24,7 +24,7 @@
 ### Front 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
+![Emotion](https://img.shields.io/badge/Emotion-d26ac2?style=for-the-badge&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
 ![recoil](https://user-images.githubusercontent.com/39258608/198218447-11962981-3863-4575-9d70-4f6474b3f2f1.svg)
 ![Zustand](https://user-images.githubusercontent.com/39258608/198218439-6257825e-f404-4eb8-bfd4-3c1c1a502396.svg)
@@ -34,7 +34,6 @@
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Typeorm](https://img.shields.io/badge/Typeorm-3982CE?style=for-the-badge&logo=ReactHookForm&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
