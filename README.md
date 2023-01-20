@@ -47,12 +47,7 @@
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/DoK6n/podote">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote&theme=material-palenight"
-    />
-  </a>
-  <a href="https://github.com/DoK6n/podote-server">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-server&theme=material-palenight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-v2&theme=material-palenight"
     />
   </a>
 </div>
