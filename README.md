@@ -45,7 +45,7 @@
 
 # Repo
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/DoK6n/podote">
+  <a href="https://github.com/DoK6n/podote-v2">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-v2&theme=material-palenight"
     />
