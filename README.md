@@ -45,9 +45,14 @@
 
 # Repo
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/DoK6n/podote-v2">
+  <a href="https://github.com/DoK6n/podote-graphql">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-v2&theme=material-palenight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-graphql&theme=material-palenight"
+    />
+  </a>
+  <a href="https://github.com/pasteltones/periwinkle-ui">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=pasteltones&repo=periwinkle-ui&theme=material-palenight"
     />
   </a>
 </div>
