@@ -33,7 +33,6 @@
 - Chakra-UI
 
 - Zustand
-- Valtio
 
 - SWR
 - Tanstack Quary (React Quary)
@@ -51,23 +50,9 @@
 
 ### DevOps
 
-- AWS : EC2, RDS, Elastic Beanstalk
+- AWS : EC2, RDS, Elastic Beanstalk, S3, Cloud Front
 - Azure : App Service, Devops Pipelines(CI/CD)
 - Github Actions
-
-# Repo
-<div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/DoK6n/podote-graphql">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=podote-graphql&theme=material-palenight"
-    />
-  </a>
-  <a href="https://github.com/DoK6n/emergency-live">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=DoK6n&repo=emergency-live&theme=material-palenight"
-    />
-  </a>
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&section=footer)
 
